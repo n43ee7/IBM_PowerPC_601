@@ -10,5 +10,5 @@ ___________________________________________________________________________
 (DETAILS WILL BE ADDED WHEN CPU Heiarchy is developed)
 
 ### EDA, Synthesis, & Verification Tools:
-> Intel Quartus Prime
+> Intel Quartus Prime \
 > LogicSim 
