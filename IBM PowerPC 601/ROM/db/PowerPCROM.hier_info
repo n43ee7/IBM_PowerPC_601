@@ -1,0 +1,16 @@
+|PowerPCROM
+CLK => Data_A[0]~reg0.CLK
+CLK => Data_A[1]~reg0.CLK
+CLK => Data_A[2]~reg0.CLK
+CLK => Data_A[3]~reg0.CLK
+ENW => ~NO_FANOUT~
+Addr_A[0] => memory.RADDR
+Addr_A[1] => memory.RADDR1
+Addr_A[2] => memory.RADDR2
+Addr_A[3] => memory.RADDR3
+Data_A[0] <= Data_A[0]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+Data_A[1] <= Data_A[1]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+Data_A[2] <= Data_A[2]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+Data_A[3] <= Data_A[3]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+

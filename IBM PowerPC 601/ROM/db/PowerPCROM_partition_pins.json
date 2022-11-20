@@ -1,0 +1,41 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "Data_A[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Data_A[2]",
+					"strict" : false
+				},
+				{
+					"name" : "Data_A[3]",
+					"strict" : false
+				},
+				{
+					"name" : "Addr_A[0]",
+					"strict" : false
+				},
+				{
+					"name" : "Addr_A[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Addr_A[2]",
+					"strict" : false
+				},
+				{
+					"name" : "CLK",
+					"strict" : false
+				},
+				{
+					"name" : "Addr_A[3]",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

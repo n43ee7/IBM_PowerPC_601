@@ -1,0 +1,27 @@
+-- begin_signature
+-- PowerPCROM
+-- end_signature
+WIDTH=4;
+DEPTH=16;
+
+ADDRESS_RADIX=UNS;
+DATA_RADIX=BIN;
+
+CONTENT BEGIN
+	15 :	0000;
+	14 :	1100;
+	13 :	1010;
+	12 :	0100;
+	11 :	0010;
+	10 :	1110;
+	9 :	0010;
+	8 :	1010;
+	7 :	0000;
+	6 :	1100;
+	5 :	1010;
+	4 :	0100;
+	3 :	0010;
+	2 :	1110;
+	1 :	0010;
+	0 :	0010;
+END;

@@ -1,0 +1,18 @@
+Fitter Status : Successful - Thu Oct 20 00:06:58 2022
+Quartus Prime Version : 20.1.1 Build 720 11/11/2020 SJ Lite Edition
+Revision Name : PowerPCRAM
+Top-level Entity Name : PowerPCRAM
+Family : MAX 10
+Device : 10M16DAF256C7G
+Timing Models : Final
+Total logic elements : 1,345 / 15,840 ( 8 % )
+    Total combinational functions : 1,345 / 15,840 ( 8 % )
+    Dedicated logic registers : 528 / 15,840 ( 3 % )
+Total registers : 528
+Total pins : 47 / 178 ( 26 % )
+Total virtual pins : 0
+Total memory bits : 0 / 562,176 ( 0 % )
+Embedded Multiplier 9-bit elements : 0 / 90 ( 0 % )
+Total PLLs : 0 / 4 ( 0 % )
+UFM blocks : 0 / 1 ( 0 % )
+ADC blocks : 0 / 1 ( 0 % )

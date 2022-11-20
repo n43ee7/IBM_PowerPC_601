@@ -1,0 +1,197 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "q_A[0]",
+					"strict" : false
+				},
+				{
+					"name" : "q_A[1]",
+					"strict" : false
+				},
+				{
+					"name" : "q_A[2]",
+					"strict" : false
+				},
+				{
+					"name" : "q_A[3]",
+					"strict" : false
+				},
+				{
+					"name" : "q_A[4]",
+					"strict" : false
+				},
+				{
+					"name" : "q_A[5]",
+					"strict" : false
+				},
+				{
+					"name" : "q_A[6]",
+					"strict" : false
+				},
+				{
+					"name" : "q_A[7]",
+					"strict" : false
+				},
+				{
+					"name" : "q_B[0]",
+					"strict" : false
+				},
+				{
+					"name" : "q_B[1]",
+					"strict" : false
+				},
+				{
+					"name" : "q_B[2]",
+					"strict" : false
+				},
+				{
+					"name" : "q_B[3]",
+					"strict" : false
+				},
+				{
+					"name" : "q_B[4]",
+					"strict" : false
+				},
+				{
+					"name" : "q_B[5]",
+					"strict" : false
+				},
+				{
+					"name" : "q_B[6]",
+					"strict" : false
+				},
+				{
+					"name" : "q_B[7]",
+					"strict" : false
+				},
+				{
+					"name" : "Addr_A[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Addr_A[0]",
+					"strict" : false
+				},
+				{
+					"name" : "Addr_A[2]",
+					"strict" : false
+				},
+				{
+					"name" : "Addr_A[3]",
+					"strict" : false
+				},
+				{
+					"name" : "Addr_A[5]",
+					"strict" : false
+				},
+				{
+					"name" : "Addr_A[4]",
+					"strict" : false
+				},
+				{
+					"name" : "CLK",
+					"strict" : false
+				},
+				{
+					"name" : "ENW_A",
+					"strict" : false
+				},
+				{
+					"name" : "Addr_B[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Addr_B[0]",
+					"strict" : false
+				},
+				{
+					"name" : "Addr_B[2]",
+					"strict" : false
+				},
+				{
+					"name" : "Addr_B[3]",
+					"strict" : false
+				},
+				{
+					"name" : "Addr_B[5]",
+					"strict" : false
+				},
+				{
+					"name" : "Addr_B[4]",
+					"strict" : false
+				},
+				{
+					"name" : "ENW_B",
+					"strict" : false
+				},
+				{
+					"name" : "Data_A[0]",
+					"strict" : false
+				},
+				{
+					"name" : "Data_B[0]",
+					"strict" : false
+				},
+				{
+					"name" : "Data_A[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Data_B[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Data_A[2]",
+					"strict" : false
+				},
+				{
+					"name" : "Data_B[2]",
+					"strict" : false
+				},
+				{
+					"name" : "Data_A[3]",
+					"strict" : false
+				},
+				{
+					"name" : "Data_B[3]",
+					"strict" : false
+				},
+				{
+					"name" : "Data_A[4]",
+					"strict" : false
+				},
+				{
+					"name" : "Data_B[4]",
+					"strict" : false
+				},
+				{
+					"name" : "Data_A[5]",
+					"strict" : false
+				},
+				{
+					"name" : "Data_B[5]",
+					"strict" : false
+				},
+				{
+					"name" : "Data_A[6]",
+					"strict" : false
+				},
+				{
+					"name" : "Data_B[6]",
+					"strict" : false
+				},
+				{
+					"name" : "Data_A[7]",
+					"strict" : false
+				},
+				{
+					"name" : "Data_B[7]",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
